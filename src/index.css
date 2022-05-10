@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: yellow;
+}
+
+.menu{
+ padding: 20px;
+ display: flex;
+ align-items: center;
+ max-width: 600px;
+ margin: 0 auto;
+ border-bottom: 1px solid #f2f2f2;
+}
+
+.menu h1{
+  color: #f1356d;
+}
+.menu .links{
+  margin-left: auto;
+}
+
+.menu a{
+margin-left: 16px;
+text-decoration: none;
+padding: 6px;
+}
+.menu a:hover{
+  color: #f1356d;
+}
+
+.content{
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.blog-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid#fafafa;
+}
+
+.blog-preview:hover{
+  box-shadow: 1px 3px 5px rgba(0,0, 0, 0.1);
+}
+
+.blog-preview h2{
+  font-size: 20px;
+  color:#f1356d;
+  margin-bottom: 8px;
+}
+.blog-preview a{
+  text-decoration: none;
+}
+.bog-details h2{
+  margin: 20px 0;
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+
+
+.blog-details div{
+  margin: 20px 0;
+}
+/* .create-blog {
+  padding: 20px;
+  margin: 20px;
+  height: 60px;
+} */
+
+.lab{
+  display:block;
+  margin-top: 10px;
+}
+.create{
+  margin-left: 50px;
+}
+.create button{
+  color: white;
+  background-color: red;
+}
+.create button:hover{
+  background-color: lightgreen;
+}
