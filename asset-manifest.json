@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cyber-bloc/static/css/main.c3bd0b77.css",
+    "main.js": "/cyber-bloc/static/js/main.911d0333.js",
+    "static/js/787.ff1f4d9d.chunk.js": "/cyber-bloc/static/js/787.ff1f4d9d.chunk.js",
+    "static/media/logo.svg": "/cyber-bloc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cyber-bloc/index.html",
+    "main.c3bd0b77.css.map": "/cyber-bloc/static/css/main.c3bd0b77.css.map",
+    "main.911d0333.js.map": "/cyber-bloc/static/js/main.911d0333.js.map",
+    "787.ff1f4d9d.chunk.js.map": "/cyber-bloc/static/js/787.ff1f4d9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3bd0b77.css",
+    "static/js/main.911d0333.js"
+  ]
+}
